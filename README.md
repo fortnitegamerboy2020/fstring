@@ -1,4 +1,4 @@
-# fstring
+# fstring (WIP)
 ### a WIP string library that stands for "Fuck Strings" from my frustration of C strings.
 
 I am currently working on a personal project of mine, learning Linux headers coming from Windows.
@@ -8,3 +8,5 @@ I was a C++ only guy. Now that i'm on linux, I don't have C++'s training wheels 
 So I made fstring;
 
 Fuck strings.
+
+PS. I am going to switch to an arena, just wait or change it yourself.
